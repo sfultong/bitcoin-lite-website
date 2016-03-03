@@ -20,6 +20,12 @@
   border-color: #9EA2FF;
 }
 
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #555;
+    background-color: #B7BDFF;
+}
+
+
 .jumbotron {
   background-color: #E4E4F6;
 }
@@ -29,5 +35,5 @@
 }
 
 body {
-  background-color:#926037;
+  background-color:#932F00;
 }
